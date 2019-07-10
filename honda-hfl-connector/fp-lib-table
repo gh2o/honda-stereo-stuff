@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name honda-hfl-connector)(type KiCad)(uri ${KIPRJMOD}/honda-hfl-connector.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name honda-stereo-adapter)(type KiCad)(uri ${KIPRJMOD}/honda-stereo-adapter.pretty)(options "")(descr ""))
+)
